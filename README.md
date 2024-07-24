@@ -14,7 +14,6 @@ git clone https://github.com/un4gt/mp3-player.git
 Install the dependencies
 
 ```bash
-cd my-app
 yarn install
 ```
 
